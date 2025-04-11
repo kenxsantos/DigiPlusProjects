@@ -14,8 +14,8 @@ This repository is designed to:
 
 ## 🛠 Technologies Used
 This repository includes projects built with:
-- 🖥 **Flutter:** HTML, CSS, JavaScript
-- ⚙️ **Kotlin:** Node.js, Python, PHP
+- 🖥 **Flutter:** 
+- ⚙️ **Kotlin:** 
 
 
 ---
