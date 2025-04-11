@@ -1,3 +1,15 @@
 [submodule "WeatherApp"]
 	path = WeatherApp
 	url = git@github.com:kenxsantos/WeatherApp.git
+[submodule "FlutterCalculator"]
+	path = FlutterCalculator
+	url = git@github.com:kenxsantos/flutter-calculator-bloc.git
+[submodule "ShoppingList"]
+	path = ShoppingList
+	url = git@github.com:kenxsantos/shopping-list-flutter-bloc.git
+[submodule "ConnectionChecker"]
+	path = ConnectionChecker
+	url = git@github.com:kenxsantos/connection-checker-bloc.git
+[submodule "KotlinCalculator"]
+	path = KotlinCalculator
+	url = git@github.com:kenxsantos/simple-calculator-kotlin.git
