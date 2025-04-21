@@ -7,9 +7,11 @@
 [submodule "ShoppingList"]
 	path = ShoppingList
 	url = git@github.com:kenxsantos/shopping-list-flutter-bloc.git
-[submodule "ConnectionChecker"]
-	path = ConnectionChecker
+[submodule "ConnectionChecker"] 	path = ConnectionChecker
 	url = git@github.com:kenxsantos/connection-checker-bloc.git
 [submodule "KotlinCalculator"]
 	path = KotlinCalculator
 	url = git@github.com:kenxsantos/simple-calculator-kotlin.git
+[submodule "FlappyBird"]
+	path = FlappyBird
+	url = git@github.com:kenxsantos/flappy-bird.git
