@@ -15,3 +15,6 @@
 [submodule "FlappyBird"]
 	path = FlappyBird
 	url = git@github.com:kenxsantos/flappy-bird.git
+[submodule "Feelio"]
+	path = Feelio
+	url = git@github.com:kenxsantos/Feelio.git
