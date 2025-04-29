@@ -18,3 +18,6 @@
 [submodule "Feelio"]
 	path = Feelio
 	url = git@github.com:kenxsantos/Feelio.git
+[submodule "Breakout_2DGame"]
+	path = Breakout_2DGame
+	url = git@github.com:kenxsantos/Breakout_2DGame.git
