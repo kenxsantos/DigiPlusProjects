@@ -21,3 +21,6 @@
 [submodule "Breakout_2DGame"]
 	path = Breakout_2DGame
 	url = git@github.com:kenxsantos/Breakout_2DGame.git
+[submodule "AcePlus"]
+	path = AcePlus
+	url = git@github.com:kenxsantos/AcePlus.git
